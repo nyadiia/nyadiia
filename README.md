@@ -6,8 +6,10 @@ Learning : Rust / Nix\
 
 [<img src='https://cdn.simpleicons.org/github/ff006f' alt='github' height='32'>](https://github.com/nyadiia)  [<img src='https://cdn.simpleicons.org/twitter/ff006f' alt='twitter' height='32'>](https://twitter.com/PASTELPARASIlE)  [<img src='https://cdn.simpleicons.org/icloud/ff006f' alt='website' height='32'>](mikufan.page)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyadiia&theme=radical&langs_count=10&card_width=400&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nyadiia&hide_rank=true&include_all_commits=true&count_private=true&line_height=28&theme=radical&show_icrons=true)
+![Github Stats](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Github Stats](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [pronouns]: https://en.pronouns.page/@nyadiia
 [keys]: https://github.com/nyadiia.keys
