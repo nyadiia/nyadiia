@@ -1,6 +1,6 @@
 # Hey! I'm [Nadia][pronouns]!
 
-Languages: Python / Java / HTML / CSS / LaTeX\
+Languages: Python / Java / HTML / CSS / JS / LaTeX\
 Learning : Rust / Nix\
 [Here are my public keys][keys]
 
