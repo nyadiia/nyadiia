@@ -1,11 +1,10 @@
-# Hey! I'm [Nadia][pronouns]!
+# Hey! I'm Nadia!
 
 Languages: Python / Java / HTML / CSS / JS / LaTeX\
 Learning: Rust / Nix
 
-public keys are:
+[public ssh keys][keys]
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIUjzKy5ccDe6Ij8zQG3/zqIjoKwo3kfU/0Ui50hZs+r
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEY6TFsxYJKwYBBAHaRw8BAQdAJ/ZO38saG7LljuSZfYs3pFkI6Gb5EpA/QSme
@@ -23,5 +22,4 @@ RyvNPU1Dr+Ij7z+p8s7OJfDvRQD+KIUji/JkUZQ3mHiLtPLTbyouvhlwq69qe77I
 ![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-[pronouns]: https://en.pronouns.page/@nyadiia
 [keys]: https://github.com/nyadiia.keys
