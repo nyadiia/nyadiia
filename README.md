@@ -18,8 +18,6 @@ RyvNPU1Dr+Ij7z+p8s7OJfDvRQD+KIUji/JkUZQ3mHiLtPLTbyouvhlwq69qe77I
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-[<img src='https://cdn.simpleicons.org/icloud/ff006f' alt='website' height='32'>](mikufan.page)
-
 ![Github Stats](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Github Stats](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-dark-mode-only)
