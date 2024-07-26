@@ -1,25 +1,23 @@
 # Hey! I'm Nadia!
 
-Languages: Python / Java / HTML / CSS / JS / LaTeX\
+Languages: Python / Java / HTML / CSS / JS / LaTeX  
 Learning: Rust / Nix
 
-[public ssh keys][keys]
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEY6TFsxYJKwYBBAHaRw8BAQdAJ/ZO38saG7LljuSZfYs3pFkI6Gb5EpA/QSme
-oJIiiNW0Jk5hZGlhIFBvdHRlaWdlciAoTWFpbikgPG55YWRpaWFAcG0ubWU+iJYE
-ExYIAD4WIQTI3BcHCsMzOBk/lyMilxj9wWDogAUCY6TFswIbIwUJCWYBgAULCQgH
-AgYVCgkICwIEFgIDAQIeAQIXgAAKCRAilxj9wWDogDK9AP9Po3Z+oBryCuiOZgdt
-RyvNPU1Dr+Ij7z+p8s7OJfDvRQD+KIUji/JkUZQ3mHiLtPLTbyouvhlwq69qe77I
-1gWcwQU=
-=u2bN
------END PGP PUBLIC KEY BLOCK-----
+## [latest pgp key][latest-pgp]
+```
+pub   ed25519/178B4B1243860873 2024-07-22 [SC] [expires: 2028-07-21]
+      Key fingerprint = 9330 C738 93C8 4271 F2EC  15EF 178B 4B12 4386 0873
+uid                 [ultimate] Nadia Potteiger (berry key) <nyadiia@pm.me>
+sub   ed25519/33D7F2D4F548109B 2024-07-22 [A] [expires: 2028-07-21]
+sub   cv25519/A778ED92C05496FE 2024-07-22 [E] [expires: 2028-07-21]
 ```
 
-![Github Stats](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Github Stats](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Top Languages](https://raw.githubusercontent.com/nyadiia/github-stats/master/generated/languages.svg#gh-light-mode-only)
+### [public ssh keys][ssh-keys]  
+### [public pgp keys][pgp-keys]
 
-[keys]: https://github.com/nyadiia.keys
+![Profile View Count](https://komarev.com/ghpvc/?username=nyadiia&color=ff0066&style=flat)
+
+[ssh-keys]: https://github.com/nyadiia.keys
+[pgp-keys]: https://github.com/nyadiia/nyadiia/tree/main/pub
+[latest-pgp]: https://github.com/nyadiia/nyadiia/tree/main/pub/latest.asc
